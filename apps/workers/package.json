@@ -17,7 +17,7 @@
     "@tsconfig/node22": "^22.0.0",
     "archiver": "^7.0.1",
     "async-mutex": "^0.4.1",
-    "dompurify": "^3.2.4",
+    "dompurify": "^3.3.2",
     "dotenv": "^16.4.1",
     "drizzle-orm": "^0.44.2",
     "execa": "9.3.1",
