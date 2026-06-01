@@ -22,7 +22,7 @@
     "@types/html-to-text": "^9.0.4",
     "@types/nodemailer": "^6.4.17",
     "vite-tsconfig-paths": "^6.1.1",
-    "vitest": "^3.2.4"
+    "vitest": "^4.1.0"
   },
   "scripts": {
     "typecheck": "tsc --noEmit",
